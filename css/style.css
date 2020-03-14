@@ -1,0 +1,55 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style2 {
+  border-left: 1px solid #707070;
+  border-right: 1px solid #707070;
+  border-top: 1px solid #707070;
+  border-bottom: 1px solid #707070;
+  margin-left: 37.91%;
+  margin-top: 14.44%;
+  width: 24.166%;
+  height: 13.425vh
+}
+.style0 {
+  background-color: red;
+  border-left: 109px solid #2900ff;
+  border-right: 109px solid #2900ff;
+  border-top: 109px solid #2900ff;
+  border-bottom: 109px solid #2900ff;
+  display: flex;
+  margin-left: 28.74%;
+  margin-top: 0;
+  width: 42.552%;
+  height: 44.351vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style1 {
+  background-color: #67eb03;
+  border-left: 1px solid #707070;
+  border-right: 1px solid #707070;
+  border-top: 1px solid #707070;
+  border-bottom: 1px solid #707070;
+  opacity: .7200000286102295;
+  width: 36.474%;
+  height: 62.212%;
+  border-radius: 50%
+}
+.style3 {
+  background-color: #fa6980;
+  display: flex;
+  margin-left: 41.3%;
+  margin-top: 7.03%;
+  width: 17.395%;
+  height: 9.259vh;
+  align-items: stretch;
+  flex-direction: column;
+  border-radius: 6px
+}
+.style5 {
+  height: 100%
+}
